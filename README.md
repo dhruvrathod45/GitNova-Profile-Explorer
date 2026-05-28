@@ -28,11 +28,6 @@ It allows users to search GitHub profiles, view user details, and explore reposi
 
 ---
 
-## 📸 Preview
-
-Modern GitHub profile explorer with clean fintech-inspired design.
-
----
 
 ## 🚀 Installation
 
