@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import { motion } from "framer-motion";
 
-import "./styles/App.css";
+import "./App.css";
 
 import SearchBar from "./components/SearchBar";
 import ProfileCard from "./components/ProfileCard";
