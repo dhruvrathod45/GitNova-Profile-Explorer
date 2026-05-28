@@ -1,18 +1,116 @@
-# React + Vite
+# GitNova — GitHub Profile Explorer 🚀
+Link : https://git-nova-profile-explorer-r579.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GitNova is a modern GitHub profile explorer built using React and Vite.
+It allows users to search GitHub profiles, view user details, and explore repositories with a clean SaaS-inspired UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 Features
 
-## React Compiler
+* 🔍 Search GitHub users
+* 👤 View profile information
+* 📦 Display public repositories
+* ⭐ Repository stars count
+* 🎨 Modern responsive UI
+* ⚡ Fast Vite setup
+* ✨ Smooth animations using Framer Motion
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* React.js
+* Vite
+* Axios
+* Framer Motion
+* CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+Modern GitHub profile explorer with clean fintech-inspired design.
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/dhruvrathod45/GitNova-Profile-Explorer.git
+```
+
+Go to project folder:
+
+```bash
+cd GitNova-Profile-Explorer
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 🌐 Deployment
+
+Deployed on Vercel.
+
+---
+
+## 📁 Project Structure
+
+```bash
+src/
+│
+├── components/
+│   ├── SearchBar.jsx
+│   ├── ProfileCard.jsx
+│   └── RepoCard.jsx
+│
+├── App.jsx
+├── App.css
+├── main.jsx
+```
+
+---
+
+## 💡 Future Improvements
+
+* Dark mode
+* Repository filtering
+* GitHub contribution graph
+* Pagination
+* Trending repositories
+
+---
+
+## 👨‍💻 Author
+
+Dhruv Rathod
+
+LinkedIn:
+https://www.linkedin.com/in/dhruvrathod45/
+
+GitHub:
+https://github.com/dhruvrathod45
+
+---
